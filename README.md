@@ -1,4 +1,4 @@
 # hyperion-doc-draft
 
-[Random](random.md)
-[Structure](structure.md)
+- [Random](random.md)
+- [Structure](structure.md)
