@@ -12,11 +12,15 @@ Metaparameters:
 
 Each blocksigner calculate TA_COUNT of previus deltas. Each delta:
 
+```
 delta = timeslot_start - time_of_block_validation
+```
 
 Each blocksigner calculate median of delta list
 
+```
 m_delat = MEDIAN(deltas)
+```
 
 Each blocksigner will publish m_delta to block header
 
