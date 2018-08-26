@@ -7,14 +7,14 @@
 - Immutability and finalization rules (IFR)
 
 ## Dynamic Consensus
-- Succint and scalable distributed randomness (SSDR)
+- [Succint and scalable distributed randomness (SSDR)](random.md)
 - Key-evolving cryptography
 - Validator rotation (?)
-- Timeslot ajustment
+- [Timeslot ajustment](timeslot_ajustment.md)
 - Governance (?)
 
 ## Economic Consensus
-- Auction
+- [Auction](auction.md)
 - Ajustment staking
 - Soft penalty
 - Hard penalty
