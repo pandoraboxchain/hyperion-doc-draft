@@ -10,7 +10,7 @@
 - [Succint and scalable distributed randomness (SSDR)](random.md)
 - Key-evolving cryptography
 - Validator rotation (?)
-- [Timeslot ajustment](timeslot_ajustment.md)
+- [Timeslot adjustment](timeslot_adjustment.md)
 - Governance (?)
 
 ## Economic Consensus

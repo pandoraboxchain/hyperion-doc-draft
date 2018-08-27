@@ -2,5 +2,5 @@
 
 - [Random](random.md)
 - [Structure](structure.md)
-- [Timeslot ajustment](timeslot_ajustment.md)
+- [Timeslot adjustment](timeslot_adjustment.md)
 - [Auction](auction.md)
