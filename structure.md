@@ -8,7 +8,7 @@
 
 ## Dynamic Consensus
 - [Succint and scalable distributed randomness (SSDR)](random.md)
-- Key-evolving cryptography
+- [Key-evolving cryptography](key_evolving_cryptography.md)
 - Validator rotation (?)
 - [Timeslot adjustment](timeslot_adjustment.md)
 - Governance (?)
