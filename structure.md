@@ -15,7 +15,7 @@
 
 ## Economic Consensus
 - [Auction](auction.md)
-- Ajustment staking
+- [Adjustment staking](adjustment_staking.md)
 - Soft penalty
 - Hard penalty
 
