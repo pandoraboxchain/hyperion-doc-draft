@@ -6,3 +6,4 @@
 - [Auction](auction.md)
 - [Adjustment Staking](adjustment_staking.md)
 - [Key-evolving cryptography](key_evolving_cryptography.md)
+- [Hard penalty](hard_penalty.md)
