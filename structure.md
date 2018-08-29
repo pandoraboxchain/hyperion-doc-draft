@@ -17,7 +17,7 @@
 - [Auction](auction.md)
 - [Adjustment staking](adjustment_staking.md)
 - Soft penalty
-- Hard penalty
+- [Hard penalty](hard_penalty.md)
 
 ## Scalability
 - Simple payment verification protocol (SPV)
